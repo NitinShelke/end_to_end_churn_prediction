@@ -1,0 +1,40 @@
+flask
+ipykernel
+python-box
+
+
+# Requirements for Churn Prediction Project
+
+# Core Libraries
+numpy
+pandas
+scikit-learn
+
+# Azure Machine Learning
+azureml-core
+azureml-sdk
+azureml-dataset-runtime
+azureml-pipeline
+azureml-mlflow
+mlflow
+
+# Experiment Tracking
+matplotlib
+seaborn
+
+# Deployment
+flask
+gunicorn
+
+# Data Version Control
+dvc[s3]
+
+# CI/CD
+pytest
+pytest-cov
+
+# Miscellaneous
+jupyter
+requests
+
+-e .
